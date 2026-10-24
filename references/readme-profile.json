@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 269｜Experiment Notebook: compresses the subject of a photo into one small conceptual symbol recorded in an artist's lab notebook, like a speculative invention sketch in a 1970s retro-futurist zine — hand-drawn black ink outlines with slight wobble and breaks, simple geometric structure and nodes, a hint of function, halftone shading and stipple texture, cream paper with one or two muted blues, greens or theme colours drawn from the photo, a single small anchor in extreme white space, and tiny experiment numbers, observations or short notes in a slightly misprinted retro editorial type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-269 or asks for retro-futurist, speculative design, ink-and-halftone concept symbol illustration from a photo.",
+  "short_description": "实验手记：把照片主体收成实验手册里的小型概念符号，墨线、网点、少量色块",
+  "zh-CN": {
+    "name": "实验手记",
+    "tagline": "把照片主体收成实验手册里的一个小型概念符号：墨线、网点和少量色块。",
+    "look": "主体只留最核心的结构逻辑，压成一个小小的概念标志，像未来发明草图或实验装置的符号，可以带一点功能结构的暗示，但不展开成完整机器。用手绘黑色墨线画，线条略有抖动和断裂，但结构清楚；明暗靠半调网点和点描，再加几个几何节点，像旧科学插图和独立漫画。底子是米白纸，只加一两种低饱和的蓝、绿或从照片里取的主题色作强调。符号很小，四周是大片留白，像艺术家的实验记录页；旁边有几行细小的实验编号、观察记录或短句，带一点复古印刷误差。",
+    "traits": ["实验符号", "复古未来杂志", "墨线网点", "概念设计", "留白", "1970 年代未来学"],
+    "good": [
+      "有结构或功能感的物件：一个台灯、一把水壶、一台老相机、一个风向标",
+      "能引出奇思妙想的对象：一只蜗牛、一朵蒲公英、一个热气球、一只纸飞机",
+      "想做成独立杂志插图、概念海报或幽默实验笔记的照片"
+    ],
+    "poor": [
+      "想把复杂机械画完整、画准确的需求：工程图、产品说明图",
+      "想要赛博朋克、光滑 3D、商业科技插画或信息图堆叠的效果",
+      "需要保留颜色丰富的场景或人物肖像的照片"
+    ]
+  },
+  "en": {
+    "name": "Experiment Notebook",
+    "tagline": "Turns your subject into a small concept symbol in a lab notebook: ink line, halftone dots, a little colour.",
+    "look": "The subject keeps only its core structural logic, pressed into a small concept mark like a sketch for a future invention or the symbol of an experimental device; it may hint at a working part but never grows into a full machine. It is drawn in hand-inked black outlines that wobble and break slightly while the structure stays clear, with shading in halftone dots and stippling plus a few geometric nodes, like old science illustrations and independent comics. The ground is cream paper with just one or two muted blues, greens or a theme colour from the photo as accents. The symbol is small, surrounded by wide white space like an artist's experiment log, with a few lines of tiny experiment numbers, observations or short notes in slightly misprinted retro type.",
+    "traits": ["Experimental symbol", "Retro-futurist zine", "Ink and halftone", "Concept design", "White space", "1970s futurism"],
+    "good": [
+      "Objects with structure or function: a desk lamp, a kettle, an old camera, a weathervane",
+      "Subjects that invite a playful idea: a snail, a dandelion, a hot-air balloon, a paper plane",
+      "Photos you want as a zine illustration, concept poster or witty lab-note image"
+    ],
+    "poor": [
+      "Wanting complex machinery drawn completely and accurately: engineering drawings, product diagrams",
+      "Requests for cyberpunk, glossy 3D, commercial tech illustration or stacked infographics",
+      "Photos where a colourful scene or a portrait should stay"
+    ]
+  },
+  "ja": {
+    "name": "実験手帖",
+    "tagline": "写真の主役を、実験ノートに記された小さなコンセプト記号にします。墨線、網点、少しの色面。",
+    "look": "主役はいちばん大切な構造の論理だけを残し、未来の発明のスケッチや実験装置の記号のような小さなコンセプトマークに圧縮します。機能をほのめかす部分があってもかまいませんが、機械全体に広げることはしません。描くのは手描きの黒い墨線で、線は少し揺れて途切れながらも構造ははっきりしています。陰影は網点と点描、そこにいくつかの幾何学の節点を加え、古い科学イラストやインディーズ漫画のようです。下地は生成りの紙で、くすんだ青や緑、写真から取ったテーマカラーを一、二色だけアクセントにします。記号は小さく、まわりはアーティストの実験記録のページのような広い余白で、そばに小さな実験番号、観察メモ、短い言葉が、少し版ずれしたレトロな書体で数行入ります。",
+    "traits": ["実験の記号", "レトロフューチャー誌", "墨線と網点", "コンセプトデザイン", "余白", "1970 年代の未来学"],
+    "good": [
+      "構造や機能を感じるもの：デスクランプ、やかん、古いカメラ、風見",
+      "遊び心のある発想を誘うもの：カタツムリ、タンポポ、熱気球、紙飛行機",
+      "インディー雑誌の挿絵、コンセプトポスター、ユーモアのある実験メモにしたい写真"
+    ],
+    "poor": [
+      "複雑な機械を完全かつ正確に描きたい場合：設計図、製品の説明図",
+      "サイバーパンク、つややかな 3D、商業的なテックイラスト、詰め込んだインフォグラフィックを求める場合",
+      "色の豊かな場面や人物の肖像を残したい写真"
+    ]
+  },
+  "ko": {
+    "name": "실험 수첩",
+    "tagline": "사진 속 주인공을 실험 노트에 기록된 작은 개념 기호로 바꿉니다. 먹선, 망점, 약간의 색면.",
+    "look": "주인공은 가장 핵심적인 구조 논리만 남겨, 미래 발명품 스케치나 실험 장치의 기호 같은 작은 개념 마크로 압축됩니다. 작동 부분을 살짝 암시할 수는 있지만 기계 전체로 펼치지는 않습니다. 손으로 그린 검은 먹선은 조금 떨리고 끊기지만 구조는 분명하고, 명암은 망점과 점묘에 기하학적 마디 몇 개를 더해 옛 과학 삽화나 독립 만화처럼 보입니다. 바탕은 미색 종이이며, 채도 낮은 파랑이나 초록, 사진에서 가져온 주제색을 한두 가지만 포인트로 씁니다. 기호는 작고 둘레는 예술가의 실험 기록 페이지 같은 넓은 여백이며, 옆에는 작은 실험 번호, 관찰 기록, 짧은 문장이 살짝 어긋난 복고 인쇄 서체로 몇 줄 들어갑니다.",
+    "traits": ["실험 기호", "레트로 퓨처 잡지", "먹선과 망점", "개념 디자인", "여백", "1970년대 미래학"],
+    "good": [
+      "구조나 기능이 느껴지는 물건: 탁상 램프, 주전자, 오래된 카메라, 풍향계",
+      "재미있는 상상을 부르는 대상: 달팽이, 민들레, 열기구, 종이비행기",
+      "독립 잡지 삽화, 개념 포스터, 유머러스한 실험 노트로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "복잡한 기계를 완전하고 정확하게 그리고 싶은 경우: 설계 도면, 제품 설명도",
+      "사이버펑크, 매끈한 3D, 상업 테크 일러스트, 잔뜩 쌓은 인포그래픽을 원하는 경우",
+      "색이 풍부한 장면이나 인물 초상을 살려야 하는 사진"
+    ]
+  },
+  "ar": {
+    "name": "دفتر التجارب",
+    "tagline": "يحوّل عنصر صورتك إلى رمز مفاهيمي صغير في دفتر مختبر: خط حبر ونقاط هافتون وكتل لونية قليلة.",
+    "look": "لا يحتفظ العنصر إلا بمنطق بنيته الأساسي، ويُضغط في علامة مفاهيمية صغيرة كمسودة لاختراع مستقبلي أو رمز لجهاز تجريبي؛ قد يلمّح إلى جزء عامل لكنه لا يتحول إلى آلة كاملة أبداً. يُرسم بخطوط حبر أسود يدوية ترتعش وتنقطع قليلاً مع بقاء البنية واضحة، ويأتي التظليل من نقاط الهافتون والتنقيط مع بضع عُقد هندسية، كرسوم العلوم القديمة والقصص المصوّرة المستقلة. الأرضية ورق كريمي، ولا يُضاف إلا لون أو لونان من الأزرق أو الأخضر الخافت أو لون موضوع مأخوذ من الصورة للإبراز. الرمز صغير، يحيط به فراغ أبيض واسع كصفحة من سجل تجارب فنان، وبجانبه بضعة أسطر صغيرة من أرقام التجارب أو الملاحظات أو العبارات القصيرة بخط طباعي قديم فيه أخطاء طفيفة.",
+    "traits": ["رمز تجريبي", "مجلة مستقبلية قديمة", "حبر وهافتون", "تصميم مفاهيمي", "فراغ أبيض", "مستقبلية السبعينيات"],
+    "good": [
+      "أغراض لها بنية أو وظيفة: مصباح مكتب، غلاية، كاميرا قديمة، دوّارة رياح",
+      "عناصر تستدعي فكرة طريفة: حلزون، زهرة هندباء، منطاد، طائرة ورقية",
+      "صور تريدها رسماً لمجلة مستقلة أو ملصقاً مفاهيمياً أو صورة لملاحظة مختبر ظريفة"
+    ],
+    "poor": [
+      "الرغبة في رسم آلات معقدة كاملة ودقيقة: رسوم هندسية، مخططات المنتجات",
+      "طلب سايبربانك أو تصيير ثلاثي الأبعاد لامع أو رسوم تقنية تجارية أو إنفوغرافيك مكدّس",
+      "صور يجب أن يبقى فيها مشهد غني بالألوان أو صورة شخصية"
+    ]
+  }
+}

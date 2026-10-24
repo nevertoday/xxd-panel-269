@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-269
-description: "Create XXD Panel 269 raster artwork: a faithful photograph paired with a small speculative zine symbol of ink line, halftone, stipple and a few muted colors on warm paper. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-269 or asks for this 实验手记 style."
+description: "XXD Panel 269｜Experiment Notebook: compresses the subject of a photo into one small conceptual symbol recorded in an artist's lab notebook, like a speculative invention sketch in a 1970s retro-futurist zine — hand-drawn black ink outlines with slight wobble and breaks, simple geometric structure and nodes, a hint of function, halftone shading and stipple texture, cream paper with one or two muted blues, greens or theme colours drawn from the photo, a single small anchor in extreme white space, and tiny experiment numbers, observations or short notes in a slightly misprinted retro editorial type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-269 or asks for retro-futurist, speculative design, ink-and-halftone concept symbol illustration from a photo."
 ---
 
 # XXD Panel 269
